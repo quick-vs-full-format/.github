@@ -2,7 +2,7 @@
 
 Ever wondered what happens when you select "Quick Format" or "Full Format" on your drive? If you're unsure whether a specific format is best for your SSD, HDD, or flash drive, you've come to the right spot.
 
-![Quick vs Full Format](https://i.ibb.co/tMc9J6gV/quickvsfullformatguide.png)
+[quick vs full format](https://i.ibb.co/wNPvYkm4/quickvsfullformatguide.jpg)
 
 Both ways do the same thing: wipe your data, but there is more going on behind the scenes than you might realize. When establishing a new drive, reinstalling an operating system, or deleting old data, it is necessary to format the storage device. 
 
